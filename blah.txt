@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Daniel Alexander
 I yeet professional epic memes
+=======
+Ethan Falk
+I make professional epic memes. I commented that all your memes were lame, so people stopped looking at them.
+
+=======
+Daniel Alexander
+Get memed again.
+>>>>>>> 3fc7d911340211c3589615019e3c69977183e9ab
